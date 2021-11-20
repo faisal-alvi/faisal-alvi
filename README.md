@@ -1,4 +1,33 @@
-### Hi there 👋
+<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi! I'm Faisal.</h1>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<p>Full Stack ⓦWordPress Developer ❯ JavaScript Developer ❯ Front End Designer ❯ @WordPress Core Contributor ❯ Speaker ❯ Motivator ❯ Blogger</p>
+
+<h3>Things I code with</h3>
+
+<p>
+  <img alt="WordPress" src="https://img.shields.io/badge/Code-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+<h3>Where to find me</h3>
+
+[![LinkedIn: alvifaisal](https://img.shields.io/badge/-alvifaisal-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvifaisal/)](https://www.linkedin.com/in/alvifaisal/) [![WordPress.org Profile](https://img.shields.io/badge/-WordPress.org-23282d?style=flat&logo=wordpress&logoColor=white&link=https://profiles.wordpress.org/faisal03)](https://profiles.wordpress.org/faisal03) [![stackoeverflow profile](https://img.shields.io/badge/-stackoverflow-f8f9f9?style=flat&logo=stackoverflow&logoColor=F58025&link=https://stackoverflow.com/users/3422447/faisal-alvi)](https://stackoverflow.com/users/3422447/faisal-alvi) [![Twitter Follow](https://img.shields.io/twitter/follow/_the_faisal?style=social)](https://twitter.com/intent/follow?screen_name=_the_faisal)
+
+<br><br><br><br>
+
+[<img align="left" width="42%" src="https://github-readme-twitter.gazf.vercel.app/api?id=_the_faisal&amp;layout=wide">](https://twitter.com/_the_faisal)
+
+[<img align="right" width="52%" src="https://github-readme-stats.vercel.app/api?username=faisal-alvi&theme=dark&show_icons=true">](https://metrics.lecoq.io/faisal-alvi?template=classic)
+
 
 <!--
 **faisal-alvi/faisal-alvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
