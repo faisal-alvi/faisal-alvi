@@ -24,7 +24,7 @@
 
 <br><br><br><br>
 
-[<img align="left" width="42%" src="https://github-readme-twitter.gazf.vercel.app/api?id=_the_faisal&amp;layout=wide">](https://twitter.com/_the_faisal)
+[<img align="left" width="42%" src="https://github-readme-twitter.gazf.vercel.app/api?id=_the_faisal&amp;layout=wide&show_retweet=off">](https://twitter.com/_the_faisal)
 
 [<img align="right" width="52%" src="https://github-readme-stats.vercel.app/api?username=faisal-alvi&theme=dark&show_icons=true">](https://metrics.lecoq.io/faisal-alvi?template=classic)
 
