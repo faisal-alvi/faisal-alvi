@@ -20,7 +20,7 @@
 
 <h3>Where to find me</h3>
 
-[![LinkedIn: alvifaisal](https://img.shields.io/badge/-alvifaisal-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvifaisal/)](https://www.linkedin.com/in/alvifaisal/) [![WordPress.org Profile](https://img.shields.io/badge/-WordPress.org-23282d?style=flat&logo=wordpress&logoColor=white&link=https://profiles.wordpress.org/faisal03)](https://profiles.wordpress.org/faisal03) [![stackoeverflow profile](https://img.shields.io/badge/-stackoverflow-f8f9f9?style=flat&logo=stackoverflow&logoColor=F58025&link=https://stackoverflow.com/users/3422447/faisal-alvi)](https://stackoverflow.com/users/3422447/faisal-alvi) [![Twitter Follow](https://img.shields.io/twitter/follow/_the_faisal?style=social)](https://twitter.com/intent/follow?screen_name=_the_faisal)
+[![LinkedIn: alvifaisal](https://img.shields.io/badge/-alvifaisal-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvifaisal/)](https://www.linkedin.com/in/alvifaisal/) [![WordPress.org Profile](https://img.shields.io/badge/-WordPress.org-23282d?style=flat&logo=wordpress&logoColor=white&link=https://profiles.wordpress.org/faisal03)](https://profiles.wordpress.org/faisal03) [![stackoeverflow profile](https://img.shields.io/badge/-stackoverflow-f8f9f9?style=flat&logo=stackoverflow&logoColor=F58025&link=https://stackoverflow.com/users/3422447/faisal-alvi)](https://stackoverflow.com/users/3422447/faisal-alvi) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=_the_faisal)](https://twitter.com/_the_faisal)
 
 <br><br><br><br>
 
