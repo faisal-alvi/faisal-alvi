@@ -22,12 +22,9 @@
 
 [![LinkedIn: alvifaisal](https://img.shields.io/badge/-alvifaisal-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvifaisal/)](https://www.linkedin.com/in/alvifaisal/) [![WordPress.org Profile](https://img.shields.io/badge/-WordPress.org-23282d?style=flat&logo=wordpress&logoColor=white&link=https://profiles.wordpress.org/faisal03)](https://profiles.wordpress.org/faisal03) [![stackoeverflow profile](https://img.shields.io/badge/-stackoverflow-f8f9f9?style=flat&logo=stackoverflow&logoColor=F58025&link=https://stackoverflow.com/users/3422447/faisal-alvi)](https://stackoverflow.com/users/3422447/faisal-alvi) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=_the_faisal)](https://twitter.com/_the_faisal)
 
-<br><br><br><br>
+<br><br><br>
 
-[<img align="left" width="42%" src="https://github-readme-twitter.gazf.vercel.app/api?id=_the_faisal&amp;layout=wide&show_retweet=off">](https://twitter.com/_the_faisal)
-
-[<img align="right" width="52%" src="https://github-readme-stats.vercel.app/api?username=faisal-alvi&theme=dark&show_icons=true">](https://metrics.lecoq.io/faisal-alvi?template=classic)
-
+[<img width="50%" src="https://github-readme-stats.vercel.app/api?username=faisal-alvi&theme=dark&show_icons=true">](https://metrics.lecoq.io/faisal-alvi?template=classic)
 
 <!--
 **faisal-alvi/faisal-alvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
