@@ -24,7 +24,7 @@
 
 <br><br><br>
 
-[<img width="50%" src="https://github-readme-stats.vercel.app/api?username=faisal-alvi&theme=dark&show_icons=true">](https://metrics.lecoq.io/faisal-alvi?template=classic)
+[<img width="70%" src="https://github-readme-stats.vercel.app/api?username=faisal-alvi&theme=default&show_icons=true">](https://metrics.lecoq.io/faisal-alvi?template=classic)
 
 <!--
 **faisal-alvi/faisal-alvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
