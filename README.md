@@ -34,7 +34,6 @@ I specialize in **performance optimization, plugin development, and API integrat
 
 ### 📊 GitHub Stats
 ![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisal-alvi&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-alvi&layout=compact&theme=default)
 
 ---
 
