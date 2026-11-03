@@ -22,7 +22,7 @@
 <table align="center">
   <tr>
     <td align="center"><h3>12+</h3>years in<br />WordPress</td>
-    <td align="center"><h3>300+</h3>merged pull requests<br />WooCommerce core &amp; extensions</td>
+    <td align="center"><h3>300+</h3>merged pull requests<br />official WooCommerce<br />extensions</td>
     <td align="center"><h3>13</h3>WordPress releases<br />credited</td>
     <td align="center"><h3>Core</h3>contributor to<br />WordPress &amp; WooCommerce</td>
   </tr>
