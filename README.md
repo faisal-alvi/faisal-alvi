@@ -90,8 +90,7 @@ Anonymized, but every one is a delivered outcome.
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisal-alvi&theme=tokyonight" alt="GitHub profile details" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisal-alvi&theme=tokyonight" alt="Repos per language" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisal-alvi&theme=tokyonight" alt="Repos per language" />
 
 </div>
 
