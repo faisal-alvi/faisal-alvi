@@ -90,8 +90,8 @@ Anonymized, but every one is a delivered outcome.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faisal-alvi&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-alvi&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisal-alvi&theme=tokyonight" alt="GitHub profile details" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisal-alvi&theme=tokyonight" alt="Repos per language" />
 
 </div>
 
