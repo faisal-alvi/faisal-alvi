@@ -46,10 +46,10 @@
 
 Anonymized, but every one is a delivered outcome.
 
-- 🚚 [Why WooCommerce shows "No Shipping Options" and $0 tax on every order](https://faisalalvi.com/case-studies/)
-- 💳 [The silent card-update bug hiding in membership sites](https://faisalalvi.com/case-studies/)
-- 🛡️ [Clearing 22 WordPress vulnerability warnings on a 2019 site](https://faisalalvi.com/case-studies/)
-- 🎨 [The WordPress Customizer CSS trap: why menus and buttons vanish on hover](https://faisalalvi.com/case-studies/)
+- 🚚 [Why WooCommerce shows "No Shipping Options" and $0 tax on every order](https://faisalalvi.com/case-studies/woocommerce-no-shipping-options-zero-tax-bug/)
+- 💳 [The silent card-update bug hiding in membership sites](https://faisalalvi.com/case-studies/membership-site-payment-form-dead-error-race-condition/)
+- 🛡️ [Clearing 22 WordPress vulnerability warnings on a 2019 site](https://faisalalvi.com/case-studies/wordpress-vulnerability-alert-outdated-site-update/)
+- 🎨 [The WordPress Customizer CSS trap: why menus and buttons vanish on hover](https://faisalalvi.com/case-studies/wordpress-customizer-css-invisible-menu-bug/)
 
 **[Read all case studies →](https://faisalalvi.com/case-studies/)**
 
