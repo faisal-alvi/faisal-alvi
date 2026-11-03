@@ -1,45 +1,47 @@
 # 👋 Hi, I'm Faisal Alvi
 
-**Senior Web Engineer** with 12+ years of experience building scalable **WordPress** and **WooCommerce** solutions.  
-I specialize in **performance optimization, plugin development, and API integrations**, with contributions to **WordPress Core**, **WooCommerce Core**, and **Automattic’s official extensions**.
+**Senior WooCommerce developer** with 12+ years in WordPress.
+I fix what costs stores money: **failed checkouts, payment errors, slow pages and broken integrations**. 300+ merged pull requests on **WooCommerce core** and official extensions, credited in 13 WordPress releases.
+
+Store owner losing sales? Agency needing a senior pair of hands? **[Book a call](https://calendly.com/faisalalvi33/new-meeting)** or see the **[work](https://faisalalvi.com/portfolio/)**.
 
 ---
 
 ### 🧠 What I Do
-- 🧩 Develop enterprise-grade **WordPress & WooCommerce** plugins and integrations  
-- ⚡ Optimize performance for high-traffic websites  
-- 🔄 Design scalable **APIs, webhooks, and background processing systems**  
-- 🔍 Review code and maintain **WPCS** & **PHPCS** compliance  
-- 🤝 Collaborate in distributed teams across global projects  
+- 🛒 Checkout, payment and tax bugs in **WooCommerce**, traced to the root cause
+- 🔌 **API integrations, webhooks and background processing** that don't drop orders
+- ⚡ Performance work for high-traffic stores
+- 🧩 Custom **WordPress & WooCommerce** plugins, built to **WPCS** and **PHPCS** standards
+- 🤝 Agency and white-label projects across distributed teams
 
 ---
 
-### 🛠️ Tech & Tools I Use
-`WordPress` · `WooCommerce` · `React` · `JavaScript (ES6+)` · `PHP (OOP, PSR-4)`  
-`Webpack` · `Docker` · `GitHub Actions` · `Composer` · `npm` · `WP-CLI`  
+### 🔎 Real Case Studies of Real Clients
+- [Why WooCommerce shows "No Shipping Options" and $0 tax on every order](https://faisalalvi.com/case-studies/)
+- [The silent card-update bug hiding in membership sites](https://faisalalvi.com/case-studies/)
+- [Clearing 22 WordPress vulnerability warnings on a 2019 site](https://faisalalvi.com/case-studies/)
 
----
-
-### 🌍 Where to Find Me
-[💼 LinkedIn](https://www.linkedin.com/in/alvifaisal/) • [🐘 WordPress.org](https://profiles.wordpress.org/faisal03/) • [🌐 Website](https://www.faisalalvi.com) • [🐦 X / Twitter](https://x.com/_the_faisal)  
+More at **[faisalalvi.com/case-studies](https://faisalalvi.com/case-studies/)**.
 
 ---
 
 ### 🧩 Featured Projects
-- [ClassifAI](https://github.com/10up/classifai) – AI-powered WordPress plugin; **core developer**
-- [WooCommerce Square](https://github.com/woocommerce/woocommerce-square) – Led **bidirectional order sync** implementation  
-- [Multicollab](https://github.com/multidots/multicollab) – Built **real-time editorial collaboration** for WordPress teams  
+- [WooCommerce Square](https://github.com/woocommerce/woocommerce-square): led **bidirectional order sync** implementation
+- [ClassifAI](https://github.com/10up/classifai): AI-powered WordPress plugin, **core developer**
+- [Multicollab](https://github.com/multidots/multicollab): built **real-time editorial collaboration** for WordPress teams
+
+---
+
+### 🛠️ Tech & Tools
+`WordPress` · `WooCommerce` · `PHP (OOP, PSR-4)` · `React` · `JavaScript (ES6+)`
+`Webpack` · `Docker` · `GitHub Actions` · `Composer` · `npm` · `WP-CLI`
+
+---
+
+### 🌍 Where to Find Me
+[🌐 Website](https://faisalalvi.com) • [💼 LinkedIn](https://www.linkedin.com/in/alvifaisal/) • [🐘 WordPress.org](https://profiles.wordpress.org/faisal03/) • [🐦 X / Twitter](https://x.com/_the_faisal)
 
 ---
 
 ### 📊 GitHub Stats
-![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisal-alvi&show_icons=true&theme=default)  
-
----
-
-### 💬 Fun Fact
-When I’m not coding, you’ll find me exploring productivity hacks, testing WordPress betas, or mentoring new contributors.  
-
----
-
-⭐ *“Clean code is not just about syntax — it’s about scalability, empathy, and contribution.”*  
+![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisal-alvi&show_icons=true&theme=default)
